@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Nicholas!
 
-<!--
-**nicholas-www/nicholas-www** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Web Developer | 🎯 Office Admin
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicholas-www)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-ewusi-amoo/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕸 Web Development Projects
+
+### 📕 Trivia.play *(React.js, JavaScript)*
+🔗 [**Repo**](https://github.com/nicholas-www/trivia-play) | 🚀 [**Live Demo**](https://play-triviagame.netlify.app)
+
+### 🧠 Fruit Memory Game *(React.js, JavaScript)*
+🔗 [**Repo**](https://github.com/nicholas-www/fruit-memory-game) | 🚀 [**Live Demo**](https://play-fruit-memory-game.netlify.app)
+
+### 🌍 Explora Blog *(React.js, JavaScript)*
+🔗 [**Repo**](https://github.com/nicholas-www/explora-blog) | 🚀 [**Live Demo**](https://explora-blog.netlify.app)
+
+---
+
+## 🔬 Research & Articles
+
+- *Coming soon...*
+
+---
+
+## 🎓 Certifications
+
+- ✅ **Professional Foundations (ALX)**
+
+---
+
+## 📬 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicholas-www)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-ewusi-amoo/)
+
+
+---
+
+*"Creating with code, solving with logic!"* 🚀
+
+
+
