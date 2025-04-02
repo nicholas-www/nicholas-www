@@ -9,13 +9,13 @@
 ## 🕸 Web Development Projects
 
 ### 📕 Trivia.play *(React.js, JavaScript)*
-🔗 [**Repo**](https://github.com/nicholas-www/trivia-play) | 🚀 [**Live Demo**](https://play-triviagame.netlify.app)
+🔗 [**Repo**](https://github.com/nicholas-www/trivia.play) | 🚀 [**Live Demo**](https://play-triviagame.netlify.app)
 
 ### 🧠 Fruit Memory Game *(React.js, JavaScript)*
-🔗 [**Repo**](https://github.com/nicholas-www/fruit-memory-game) | 🚀 [**Live Demo**](https://play-fruit-memory-game.netlify.app)
+🔗 [**Repo**](https://github.com/nicholas-www/memory-game) | 🚀 [**Live Demo**](https://play-fruit-memory-game.netlify.app)
 
 ### 🌍 Explora Blog *(React.js, JavaScript)*
-🔗 [**Repo**](https://github.com/nicholas-www/explora-blog) | 🚀 [**Live Demo**](https://explora-blog.netlify.app)
+🔗 [**Repo**](https://github.com/nicholas-www/blog) | 🚀 [**Live Demo**](https://explora-blog.netlify.app)
 
 ---
 
